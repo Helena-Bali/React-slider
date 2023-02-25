@@ -1,1 +1,1 @@
-# React-slider
+# Image slider, wich implements with React
